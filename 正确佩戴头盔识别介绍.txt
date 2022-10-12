@@ -1,0 +1,1 @@
+本项目是基于YOLOX实现，数据集来源于自己收集的图片，yolox源码下载地址：https://github.com/Megvii-BaseDetection/YOLOX
